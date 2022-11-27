@@ -1,0 +1,84 @@
+.navbar-brand {
+    display:flex;
+    flex-direction: row;
+}
+.fa-brands fa-instagram{
+    padding: 15px 5px 10px 5px;
+    heigt: 200px;
+    justify-content: auto;
+}
+.instagram {
+    margin-left:  10px ;
+    margin-bottom: 10px;
+}
+.top-btn{
+    padding: 5px;
+    margin:5px;
+}
+.dropdown {
+    margin-right: 100px;
+}
+.dropdown-item4{
+    color: red;
+    margin-left: 17px;
+}
+.navButtons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 10px;
+}
+.btn btn-light fa-solid fa-table-cells:active {
+    color:primary;
+}
+.btn btn-light fa-solid fa-square:active{
+    color: blue;
+}
+.card {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin:auto;
+    margin-top: 20px;
+}
+.card-subtitle {
+    padding-top:20px;
+}
+/* default button 
+.btn-default {
+    background-color: #FFF;
+    color: #333;
+    border-color: #adadad;.dropdown-item1{
+    color: red;
+    border-top: 2px black;
+    padding-top: 5px;
+    border-radius: 25px;
+    }
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+    background-color: #ebebeb;
+    color: #333;
+    border-color: #adadad;
+    }
+    */
+
+.row {
+    padding: 0;
+    margin: 10px;
+    justify-content: center;
+}
+.col-4 {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    justify-content: center;
+}
+.input-group{
+    height:90px;
+}
+.form-control {
+    height: 75px;
+    width: 95%;
+}
