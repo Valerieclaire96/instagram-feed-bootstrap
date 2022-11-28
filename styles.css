@@ -39,13 +39,9 @@
     margin: 10px;
     justify-content: center;
 }
-.col-4 {
-    margin: 0;
-    padding: 0;
-}
-.container {
+/*.container {
     justify-content: center;
-}
+}*/
 .input-group{
     height:90px;
 }
